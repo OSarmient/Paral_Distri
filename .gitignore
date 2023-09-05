@@ -1,0 +1,6 @@
+# Ignorar la carpeta .vscode
+.vscode/
+
+# Ignorar archivos objeto y binarios de C
+*.o
+*.out
